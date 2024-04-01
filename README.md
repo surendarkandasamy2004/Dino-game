@@ -13,5 +13,4 @@
 - Gradual increase in game speed
 
 ## Screenshot
-![Screenshot](![Uploading Dino.jpeg…]()
-)
+![Screenshot](https://freeimghost.net/i/Dino.Jf7tt)
