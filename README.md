@@ -13,4 +13,4 @@
 - Gradual increase in game speed
 
 ## Screenshot
-![Screenshot](https://freeimghost.net/i/Dino.Jf7tt)
+![Screenshot](https://freeimghost.net/images/2024/04/01/Dino.jpeg)
